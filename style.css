@@ -87,7 +87,11 @@ a > i {
   font-size: 25px;
   margin: 16px 15px;
 }
+<<<<<<< HEAD
 .mail span a,
+=======
+.mail span,
+>>>>>>> 5afd4edb10cbe5b06a3cc0f61796a9a511473785
 .phone span,
 .location span {
   color: white;
