@@ -4,6 +4,7 @@
 }
 
 .custom-container {
+  width: 98vw;
   display: flex;
   justify-content: space-between;
   border: 2px solid grey;
