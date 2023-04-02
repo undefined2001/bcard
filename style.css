@@ -72,20 +72,25 @@ a > i {
   border-radius: 10px;
   margin: 15px 0;
 }
-.location {
+/* .location {
   overflow-x: scroll;
   white-space: nowrap;
   scrollbar-width: none;
 }
 .location::-webkit-scrollbar{
     display: none;
-}
+} */
 .mail i,
 .phone i,
 .location i {
   color: orange;
   font-size: 25px;
   margin: 17px 15px;
+}
+.location{
+  height: 10vh;
+  display: flex;
+  align-items: center;
 }
 .mail span a,
 .phone span,
